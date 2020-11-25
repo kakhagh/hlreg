@@ -1,0 +1,20 @@
+{
+  "name": "hlreg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"echo \"Hello\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakhagh/hlreg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakhagh/hlreg/issues"
+  },
+  "homepage": "https://github.com/kakhagh/hlreg#readme"
+}
